@@ -57,7 +57,7 @@ def update_clock():
 
 tasks = []
 root = tk.Tk()
-root.title("TODO List - Made by Indian Coder")
+root.title("TODO List")
 root.geometry("450x550")
 root.configure(bg="#e3f2fd")
 
